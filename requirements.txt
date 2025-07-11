@@ -1,0 +1,5 @@
+
+flask
+openvino
+transformers
+torch
